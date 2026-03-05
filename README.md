@@ -33,5 +33,5 @@ A flight tracking application that visualizes aircraft locations and flight rout
 - Flight filtering
 - Performance optimization for large datasets
 
-# API
+## API
 - https://rapidapi.com/apidojo/api/flight-radar1
